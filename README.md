@@ -13,4 +13,4 @@ Interactive executive dashboard developed to monitor sales performance, gross ma
 * **Recommendation:** Cap discount limits at 15% to immediately restore operational profit by an estimated ~$15,000 USD annually.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_overview.png)
+![Dashboard Interactive Demo](dashboard_demo.gif)
